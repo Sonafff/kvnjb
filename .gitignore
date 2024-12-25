@@ -525,3 +525,4 @@
 /.venv/Lib/site-packages/pip/_vendor/cachecontrol/wrapper.py
 /.venv/Lib/site-packages/pip/_vendor/webencodings/x_user_defined.py
 /.venv/Lib/site-packages/pip/_internal/network/xmlrpc.py
+/.idea/vcs.xml
